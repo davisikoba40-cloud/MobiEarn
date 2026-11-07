@@ -5,7 +5,7 @@
   "description": "Mobilearn website",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node start.js"
   },
   "dependencies": {
     "express": "^4.21.2"
